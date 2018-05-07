@@ -1,0 +1,3 @@
+-The dataset can be downloaded from the Yelp website and then it has to be converted to csv format using json_to_csv_converter.py.
+-Then user_content.ipynb can be used to extract the content information. Finally it has to be converted to appropriate format using csv2libsvm.py.
+
